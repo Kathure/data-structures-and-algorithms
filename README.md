@@ -1,6 +1,6 @@
 # data-structures-and-algorithms
 
-this repo contains java code for various sortinf algorithms :
+this repo contains java code for various sorting algorithms :
 
 1.Bubble sort
 
